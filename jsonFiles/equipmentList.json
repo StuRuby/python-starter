@@ -1,0 +1,89 @@
+{
+    "result": [
+        {
+            "id": 1,
+            "title": "主变压器",
+            "children": [
+                {
+                    "id": 2,
+                    "title": "主变1",
+                    "children": [
+                        {
+                            "id": 3,
+                            "title": "cp200001",
+                            "ipAddress": "192.168.1.100"
+                        },
+                        {
+                            "id": 4,
+                            "title": "cp200002",
+                            "ipAddress": "192.168.1.101"
+                        },
+                        {
+                            "id": 5,
+                            "title": "cp200003",
+                            "ipAddress": "192.168.1.102"
+                        },
+                        {
+                            "id": 6,
+                            "title": "cp200004",
+                            "ipAddress": "192.168.1.103"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "主变2",
+                    "children": [
+                        {
+                            "id": 8,
+                            "title": "cp200005",
+                            "ipAddress": "192.168.1.104"
+                        },
+                        {
+                            "id": 9,
+                            "title": "cp200006",
+                            "ipAddress": "192.168.1.105"
+                        },
+                        {
+                            "id": 10,
+                            "title": "cp200007",
+                            "ipAddress": "192.168.1.106"
+                        },
+                        {
+                            "id": 11,
+                            "title": "cp200008",
+                            "ipAddress": "192.168.1.107"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "控制器",
+            "children": [
+                {
+                    "id": 13,
+                    "title": "主变3",
+                    "children": [
+                        {
+                            "id": 14,
+                            "title": "cp200009",
+                            "ipAddress": "192.168.1.108"
+                        },
+                        {
+                            "id": 15,
+                            "title": "cp200010",
+                            "ipAddress": "192.168.1.109"
+                        },
+                        {
+                            "id": 16,
+                            "title": "cp200011",
+                            "ipAddress": "192.168.1.110"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
